@@ -2,7 +2,7 @@
 
 FillDox is a powerful, user-friendly desktop application designed to automate the creation of Word documents. By using simple templates with placeholders, you can generate hundreds of customized documents (like invoices, contracts, letters) in seconds.
 
-![FillDox Screenshot](logo2.png)
+<p align="center"><img src="logo2.png" alt="FillDox Screenshot" width="200" /></p>
 
 ## Features
 
@@ -52,4 +52,5 @@ Create a standard Word document (`.docx`) and use the following syntax:
 ## Disclaimer
 
 Modifying or altering the `FillDox.exe` file is strictly at your own risk. Any unauthorized modification or tampering with the executable may lead to software instability and could result in legal issues.
+
 
